@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 def tokenize(text: str) -> list[str]:
-    """Extract case-insensitive Unicode words from raw text.
+    """!!!!!!Extract case-insensitive Unicode words from raw text.
 
     Letters and internal apostrophes are retained. Numbers and underscores
     separate words. Markdown links, code and markup are not removed.
