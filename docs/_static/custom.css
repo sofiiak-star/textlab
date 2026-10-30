@@ -1,0 +1,5 @@
+body { color: #173e46; }
+div.document { width: 1080px; }
+div.body { max-width: 810px; }
+div.body h1, div.body h2 { color: #156d5c; }
+@media (max-width: 1100px) { div.document { width: auto; } }

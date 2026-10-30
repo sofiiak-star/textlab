@@ -1,0 +1,35 @@
+[
+  {
+    "file": "documents/flask.md",
+    "project": "pallets/flask",
+    "commit": "d086db856be187255b8ec61ef409357393020f32",
+    "source_url": "https://raw.githubusercontent.com/pallets/flask/d086db856be187255b8ec61ef409357393020f32/README.md",
+    "license": "BSD-3-Clause",
+    "license_file": "third_party/flask-LICENSE.txt",
+    "license_url": "https://raw.githubusercontent.com/pallets/flask/d086db856be187255b8ec61ef409357393020f32/LICENSE.txt",
+    "sha256": "1f2de14735b1ee9d3a342fa7c5d5e87b95727276c0a56c8a9d77221f37880602",
+    "retrieved_at": "2026-10-27T19:14:31Z"
+  },
+  {
+    "file": "documents/click.md",
+    "project": "pallets/click",
+    "commit": "2247b35ea1c47c727d7a06e51fa280e12a863ff6",
+    "source_url": "https://raw.githubusercontent.com/pallets/click/2247b35ea1c47c727d7a06e51fa280e12a863ff6/README.md",
+    "license": "BSD-3-Clause",
+    "license_file": "third_party/click-LICENSE.txt",
+    "license_url": "https://raw.githubusercontent.com/pallets/click/2247b35ea1c47c727d7a06e51fa280e12a863ff6/LICENSE.txt",
+    "sha256": "4c3de4aa0918deac2f712facacd1dc30a8cc4627d0118dd290292ab0af65ca0b",
+    "retrieved_at": "2026-10-27T19:14:34Z"
+  },
+  {
+    "file": "documents/jinja.md",
+    "project": "pallets/jinja",
+    "commit": "5ef70112a1ff19c05324ff889dd30405b1002044",
+    "source_url": "https://raw.githubusercontent.com/pallets/jinja/5ef70112a1ff19c05324ff889dd30405b1002044/README.md",
+    "license": "BSD-3-Clause",
+    "license_file": "third_party/jinja-LICENSE.txt",
+    "license_url": "https://raw.githubusercontent.com/pallets/jinja/5ef70112a1ff19c05324ff889dd30405b1002044/LICENSE.txt",
+    "sha256": "171bcabd913f25f143eae912d6f23f340d0bc887a305655107f28fb29c73ecfa",
+    "retrieved_at": "2026-10-27T19:14:35Z"
+  }
+]

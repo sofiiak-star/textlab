@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "TextLab"
+authors:
+  - family-names: "Paslavskyi"
+    given-names: "Yuriy"
+version: "1.0.0"

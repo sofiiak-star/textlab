@@ -1,0 +1,8 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.rst text eol=lf
+# Preserve exact upstream bytes for provenance checks.
+documents/*.md -text
+third_party/* -text
